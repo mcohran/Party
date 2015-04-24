@@ -1,0 +1,11 @@
+body {
+	background:aqua;
+	color:black;
+}
+.jumbotron{
+	background-color:#0eed5c!important;
+}
+.form-control{
+	background-color:#d376f5!important; 
+	color:white;
+}
